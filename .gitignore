@@ -1,0 +1,4 @@
+/DS_store
+.mypy_cache
+.vscode
+db.sqlite3
