@@ -1,3 +1,5 @@
+![Django Polls](banner_django_polls.png)
+
 # Django Polls (Official Docs Video Companion Series)
 
 Code the official Django Polls application along with typing support and testing.
